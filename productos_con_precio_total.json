@@ -1,0 +1,20 @@
+{
+    "productos": [
+        {
+            "nombre": "Leche",
+            "precio": 2.5,
+            "cantidad": 3
+        },
+        {
+            "nombre": "Pan",
+            "precio": 1.2,
+            "cantidad": 5
+        },
+        {
+            "nombre": "Manzanas",
+            "precio": 0.5,
+            "cantidad": 10
+        }
+    ],
+    "precioTotal": 18.5
+}

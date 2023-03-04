@@ -1,0 +1,4 @@
+Juan, 30, juan@example.com
+María, 25, maria@example.com
+Pedro, 40, pedro@example.com
+Luisa, 35, luisa@example.com

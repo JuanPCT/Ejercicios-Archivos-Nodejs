@@ -1,0 +1,3 @@
+Ana González,agonzalez@hotmail.com,claveSegura123
+Pedro Ruiz,pruiz@yahoo.com,Password1234
+María Fernández,mfernandez@gmail.com,contraseñaFuerte123
